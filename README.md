@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **React, Dart, and multi-platform development**
 
-- 👨‍💻 All of my projects are available at [mfataka.dev](mfataka.dev)
+- 👨‍💻 All of my projects are available at [mfataka.dev](https://mfataka.dev)
 
 - 💬 Ask me about **CI/CD, Spring boot, Java and kotlin**
 
 - 📫 How to reach me **hammafataka@yahoo.com**
 
-- 📄 Know about my experiences [portfolio.mfataka.dev/](portfolio.mfataka.dev/)
+- 📄 Know about my experiences [portfolio.mfataka.dev/](https://portfolio.mfataka.dev/)
 
 - ⚡ Fun fact **I like tea more than coffee**
 
