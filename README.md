@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Dart, and multi-platform development**
 
-- 👨‍💻 All of my projects are available at [mftaka.dev](mftaka.dev)
+- 👨‍💻 All of my projects are available at [mfataka.dev](mfataka.dev)
 
 - 💬 Ask me about **CI/CD, Spring boot, Java and kotlin**
 
